@@ -36,6 +36,11 @@ Once running, you can access the interface in your browser at:
 
 # How to use
 
+First, you need to pull this repository. You can use git clone <url> here OR:
+1. click the big green "Code" button
+2. choose download as ZIP
+3. unzip that file and you have the code
+
 The normal workflow usually consists of 3 scripts in this order:
 * process_application
 * create_student_appl_folder
