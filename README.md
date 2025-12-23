@@ -41,7 +41,7 @@ The normal workflow usually consists of 3 scripts in this order:
 * create_student_appl_folder
 * create_department folder
 
-You can run each script by block by block approach.
-Please read through the comment in each individual script.
-You would often see this notation "./data", the "./" can be understand as a relative path from that script file location.
-So, "./data" means that the "data" folder at the same location as that script file.
+You can run each script by block by block approach.\
+Please read through the comment in each individual script.\
+You would often see this notation "./data", the "./" can be understand as a relative path from that script file location.\
+So, "./data" means that the "data" folder at the same location as that script file.\
